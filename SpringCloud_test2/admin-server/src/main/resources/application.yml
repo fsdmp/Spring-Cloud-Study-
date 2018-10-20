@@ -1,0 +1,53 @@
+spring:
+  application:
+    name: service-admin
+  boot:
+    admin:
+      routes:
+        # 管理监控 端点
+        endpoints: env,metrics,dump,jolokia,info,configprops,trace,logfile,refresh,flyway,liquibase,heapdump,loggers,auditevents,hystrix.stream,activiti
+      turbine:
+        clusters: default
+        location: service-turbine
+# 配置一些乱七八糟的东东
+endpoints:
+  health:
+    sensitive: false
+    enabled: true
+  actuator:
+    enabled: true
+    sensitive: false
+  beans:
+    sensitive: false
+    enabled: true
+server:
+  port: 5000
+eureka:
+  client:
+    service-url:
+      defaultZone: http://peer1:8761/eureka/
+  instance:
+    metadata-map:
+      user.name: admin
+      user.password: 123
+management:
+  security:
+    # 关闭安全验证
+    enabled: false
+logging:
+  # 日志输出路径
+  file: logs/boot-admin-sample.log
+security:
+  user:
+    name: admin
+    password: 123
+  basic:
+    # 是否启用启用基本身份验证
+    enabled: false
+
+# 访问此程序端口 看到ui界面
+#       applications ： 展示了向eureka server注册的所有客户端实例
+#           客户端实例右侧details ： 客户端实例的详细界面
+#                     实例信息，日志信息，指标信息，环境信息，日志级别管理和JMX
+#       journal ： 服务注册，下线，剔除的时间线
+#       about ： 关于spring boot admin的介绍

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/admin-client-one" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/admin-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/config-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/config-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/el-rabbitmq-zipkin-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureka-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureka-client-one" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureka-client-two" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureka-feign-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureka-monitor-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureka-ribbon-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureka-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureka-zuul-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gateway-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rabbitmq-gateway-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rabbitmq-user-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rabbitmq-zipkin-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ribbon-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/turbine-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/user-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zipkin-server" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

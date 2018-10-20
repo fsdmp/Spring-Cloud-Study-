@@ -1,0 +1,10 @@
+server:
+  port: 8761
+eureka:
+  instance:
+    hostname: peer1
+  client:
+    service-url:
+      #向peer2：8762注册中心注册
+      defaultZone: http://peer2:8760/eureka/
+

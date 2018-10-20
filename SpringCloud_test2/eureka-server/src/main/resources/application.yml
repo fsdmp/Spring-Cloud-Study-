@@ -1,0 +1,42 @@
+server:
+  port: 8761
+eureka:
+  instance:
+    hostname: localhost
+    #修改减短服务心跳的时间(下面两个)
+    # 默认90秒  以秒为单位设置租约到期时间
+    lease-expiration-duration-in-seconds: 90
+    # 默认30秒 以秒为单位设置租赁续订间隔
+    lease-renewal-interval-in-seconds: 3
+  client:
+    # 不向注册中心注册自己
+    register-with-eureka: false
+    # 不需要检索服务rer
+    fetch-registry: false
+
+    service-url:
+      defaultZone: http://localhost:8761/eureka/
+  server:
+    # 某一个时刻，某一个微服务不可用了，eureka不会立即清理，
+    # 会启动自我保护机制，依旧会对该微服务的信息进行保存！
+    # 这里设为false避免了这一问题
+    ## 关闭自我保护机制 （默认打开 ）  实现服务失效能自动移除
+    enable-self-preservation: false
+    # 修改检查失效服务的时间 单位毫秒 默认60000
+    eviction-interval-timer-in-ms: 3000
+
+
+#security:
+#  basic:
+#    # 启用安全机制  向此注册中心注册的时候地址：http://${name}:${password}@主机加端口号
+#    enabled: false
+#  user:
+#    name: admin
+#    password: admin
+
+
+#spring:
+#  profiles:
+#    active: peer1
+    #active: peer2
+

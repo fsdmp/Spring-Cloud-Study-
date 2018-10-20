@@ -1,0 +1,21 @@
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8761/eureka/
+server:
+  port: 8762
+spring:
+  application:
+    name: user-service
+  zipkin:
+    base-url: http://localhost:9411  #zipkin查询服务器实例的URL：zipkin server 地址
+  sleuth:
+    sampler:
+      # 表示以100%的概率将链路的数据上传给zipkin server ，默认为0.1
+      percentage: 1.0
+   # rabbitmq相关配置
+  rabbitmq:
+    password: admin
+    username: admin
+    host: 192.168.55.2
+    port: 5672

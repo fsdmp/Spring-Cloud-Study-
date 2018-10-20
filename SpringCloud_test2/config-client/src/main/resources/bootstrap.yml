@@ -1,0 +1,20 @@
+## bootstrap 相对于吧 application 具有优先的执行顺序
+spring:
+  application:
+    name: config-client
+  cloud:
+    config:
+      # 如果没用读取成功，则执行快速失败  false：关闭快速失败 true：开启快速失败
+      fail-fast: true
+      # 向地址http://localhost:8769 的config-server 读取配置文件
+      #uri: http://localhost:8769
+      discovery:
+        enabled: true #启用服务配置发现
+        service-id: config-server #向服务名为config-server 的config-server 读取配置文件
+  profiles:
+    # application-name的值和此处的值默认使用"-"相连， 构成将要读取的配置文件名
+    active: dev
+## 因为没用设置端口号，所有本服务的端口号将为读取的配置文件中设置的端口号
+## 总结：读取的配置文件，不仅可以设置一些常量之类的东西，还可以对程序进行配置
+
+

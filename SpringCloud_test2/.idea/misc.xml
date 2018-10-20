@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/eureka-server/pom.xml" />
+        <option value="$PROJECT_DIR$/eureka-client/pom.xml" />
+        <option value="$PROJECT_DIR$/eureka-ribbon-client/pom.xml" />
+        <option value="$PROJECT_DIR$/ribbon-client/pom.xml" />
+        <option value="$PROJECT_DIR$/eureks-feign-client/pom.xml" />
+        <option value="$PROJECT_DIR$/eureka-feign-client/pom.xml" />
+        <option value="$PROJECT_DIR$/eureka-monitor-client/pom.xml" />
+        <option value="$PROJECT_DIR$/eureka-zool-client/pom.xml" />
+        <option value="$PROJECT_DIR$/eureka-zuul-client/pom.xml" />
+        <option value="$PROJECT_DIR$/config-server/pom.xml" />
+        <option value="$PROJECT_DIR$/config-client/pom.xml" />
+        <option value="$PROJECT_DIR$/zipkin-server/pom.xml" />
+        <option value="$PROJECT_DIR$/user-service/pom.xml" />
+        <option value="$PROJECT_DIR$/gateway-service/pom.xml" />
+        <option value="$PROJECT_DIR$/rabbinmq-zipkin-server/pom.xml" />
+        <option value="$PROJECT_DIR$/rabbitmq-zipkin-server/pom.xml" />
+        <option value="$PROJECT_DIR$/rabbitmq-user-service/pom.xml" />
+        <option value="$PROJECT_DIR$/rabbitmq-gateway-service/pom.xml" />
+        <option value="$PROJECT_DIR$/el-rabbitmq-zipkin-server/pom.xml" />
+        <option value="$PROJECT_DIR$/admin-server/pom.xml" />
+        <option value="$PROJECT_DIR$/eureka-client-one/pom.xml" />
+        <option value="$PROJECT_DIR$/eureka-client-two/pom.xml" />
+        <option value="$PROJECT_DIR$/turbine-service/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

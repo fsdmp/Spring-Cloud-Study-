@@ -1,0 +1,1441 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5b003986-e9e7-4835-9231-03b5f97eaf73" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/eureka-server/target/" />
+    <ignored path="$PROJECT_DIR$/eureka-client/target/" />
+    <ignored path="$PROJECT_DIR$/eureka-ribbon-client/target/" />
+    <ignored path="$PROJECT_DIR$/ribbon-client/target/" />
+    <ignored path="$PROJECT_DIR$/eureks-feign-client/target/" />
+    <ignored path="$PROJECT_DIR$/eureka-feign-client/target/" />
+    <ignored path="$PROJECT_DIR$/eureka-monitor-client/target/" />
+    <ignored path="$PROJECT_DIR$/eureka-monitor/target/" />
+    <ignored path="$PROJECT_DIR$/eureka-zool-client/target/" />
+    <ignored path="$PROJECT_DIR$/eureka-zuul-client/target/" />
+    <ignored path="$PROJECT_DIR$/config-server/target/" />
+    <ignored path="$PROJECT_DIR$/config-client/target/" />
+    <ignored path="$PROJECT_DIR$/zipkin-server/target/" />
+    <ignored path="$PROJECT_DIR$/user-service/target/" />
+    <ignored path="$PROJECT_DIR$/gateway-service/target/" />
+    <ignored path="$PROJECT_DIR$/rabbinmq-zipkin-server/target/" />
+    <ignored path="$PROJECT_DIR$/rabbimq-zipkin-server/target/" />
+    <ignored path="$PROJECT_DIR$/rabbitmq-zipkin-server/target/" />
+    <ignored path="$PROJECT_DIR$/rabbitmq-user-service/target/" />
+    <ignored path="$PROJECT_DIR$/rabbitmq-gateway-service/target/" />
+    <ignored path="$PROJECT_DIR$/el-rabbitmq-zipkin-server/target/" />
+    <ignored path="$PROJECT_DIR$/admin-server/target/" />
+    <ignored path="$PROJECT_DIR$/admin-client-one/target/" />
+    <ignored path="$PROJECT_DIR$/eureka-client-one/target/" />
+    <ignored path="$PROJECT_DIR$/eureka-client-two/target/" />
+    <ignored path="$PROJECT_DIR$/turbine-service/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="LoggerFilter.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gateway-service/src/main/java/com/fsdm/filter/LoggerFilter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="253">
+              <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HiController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/eureka-feign-client/src/main/java/com/fsdm/controller/HiController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="253">
+              <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HiService.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/eureka-feign-client/src/main/java/com/fsdm/service/HiService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="299">
+              <caret line="15" column="14" lean-forward="false" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="EurekaClientFeign.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/eureka-feign-client/src/main/java/com/fsdm/EurekaClientFeign.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="437">
+              <caret line="22" column="1" lean-forward="false" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HiHystrix.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/eureka-feign-client/src/main/java/com/fsdm/HiHystrix.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="437">
+              <caret line="21" column="5" lean-forward="false" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+              <folding>
+                <element signature="e#392#393#0" expanded="true" />
+                <element signature="e#445#446#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FeignConfig.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/eureka-feign-client/src/main/java/com/fsdm/config/FeignConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="437">
+              <caret line="25" column="7" lean-forward="false" selection-start-line="25" selection-start-column="7" selection-end-line="25" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="322">
+              <caret line="14" column="4" lean-forward="false" selection-start-line="14" selection-start-column="4" selection-end-line="39" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ZipkinServerApplication.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/zipkin-server/src/main/java/com/fsdm/ZipkinServerApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="161">
+              <caret line="17" column="13" lean-forward="false" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="application.yml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/zipkin-server/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RibbonService.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/eureka-ribbon-client/src/main/java/com/fsdm/service/RibbonService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="782">
+              <caret line="37" column="0" lean-forward="false" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>peer2</find>
+      <find>enabled</find>
+      <find>EvictionIntervalTimerInMs</find>
+      <find>pre</find>
+      <find>native</find>
+      <find>8763</find>
+      <find>HystrixCommand</find>
+      <find>ribbonIsolationStrategy</find>
+      <find>RibbonIsolationStrategy</find>
+      <find>aggregator</find>
+      <find>ad</find>
+      <find>Tracer</find>
+      <find>org.springframework.cloud.sleuth</find>
+      <find>zipkin-server</find>
+      <find>zipkin</find>
+      <find>storage</find>
+      <find>zipki</find>
+      <find>/api</find>
+      <find>/hi</find>
+      <find>92</find>
+      <find>pass</find>
+    </findStrings>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/eureka-monitor-client/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/user-service/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/zipkin-server/src/main/java/com/fsdm/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/user-service/src/main/java/com/fsdm/UserServiceApplication.java" />
+        <option value="$PROJECT_DIR$/user-service/pom.xml" />
+        <option value="$PROJECT_DIR$/gateway-service/pom.xml" />
+        <option value="$PROJECT_DIR$/gateway-service/src/main/java/com/fsdm/GatewayServiceApplication.java" />
+        <option value="$PROJECT_DIR$/gateway-service/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/eureka-client/src/main/java/com/fsdm/EurekaClientApplication.java" />
+        <option value="$PROJECT_DIR$/zipkin-server/src/main/java/com/fsdm/filter/LoggerFilter.java" />
+        <option value="$PROJECT_DIR$/eureka-server/pom.xml" />
+        <option value="$PROJECT_DIR$/gateway-service/src/main/java/com/fsdm/filter/LoggerFilter.java" />
+        <option value="$PROJECT_DIR$/rabbinmq-zipkin-server/pom.xml" />
+        <option value="$PROJECT_DIR$/rabbimq-zipkin-server/pom.xml" />
+        <option value="$PROJECT_DIR$/rabbitmq-zipkin-server/rabbitmq-zipkin-server.iml" />
+        <option value="$PROJECT_DIR$/rabbinmq-user-service/pom.xml" />
+        <option value="$PROJECT_DIR$/rabbitmq-user-service/pom.xml" />
+        <option value="$PROJECT_DIR$/rabbitmq-gateway-service/pom.xml" />
+        <option value="$PROJECT_DIR$/rabbitmq-user-service/src/main/java/com/fsdm/RabbitmqUserServiceApplication.java" />
+        <option value="$PROJECT_DIR$/zipkin-server/pom.xml" />
+        <option value="$PROJECT_DIR$/zipkin-server/src/main/java/com/fsdm/ZipkinServerApplication.java" />
+        <option value="$PROJECT_DIR$/rabbitmq-zipkin-server/src/main/java/com/fsdm/RabbitmqZipkinServerApplication.java" />
+        <option value="$PROJECT_DIR$/rabbitmq-user-service/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/rabbitmq-gateway-service/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/eureka-server/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/rabbitmq-zipkin-server/pom.xml" />
+        <option value="$PROJECT_DIR$/el-rabbitmq-zipkin-server/src/main/java/com/fsdm/ElRabbitmqZipkinServerApplication.java" />
+        <option value="$PROJECT_DIR$/el-rabbitmq-zipkin-server/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/rabbitmq-zipkin-server/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/el-rabbitmq-zipkin-server/pom.xml" />
+        <option value="$PROJECT_DIR$/admin-server/src/main/resources/logback-spring.xml" />
+        <option value="$PROJECT_DIR$/admin-client-one/pom.xml" />
+        <option value="$PROJECT_DIR$/admin-client-one/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/admin-client-one/src/main/java/com/fsdm/AdminClientOneApplication.java" />
+        <option value="$PROJECT_DIR$/eureka-client-one/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/eureka-client-one/pom.xml" />
+        <option value="$PROJECT_DIR$/eureka-client-one/src/main/java/com/fsdm/EurekaClientOneApplication.java" />
+        <option value="$PROJECT_DIR$/eureka-client-two/src/main/java/com/fsdm/EurekaClientTwoApplication.java" />
+        <option value="$PROJECT_DIR$/eureka-client-two/pom.xml" />
+        <option value="$PROJECT_DIR$/eureka-client-two/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/turbine-service/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/eureka-client-one/src/main/java/com/fsdm/controller/HiController.java" />
+        <option value="$PROJECT_DIR$/eureka-client-two/src/main/java/com/fsdm/controller/HiController.java" />
+        <option value="$PROJECT_DIR$/admin-server/src/main/java/com/fsdm/AdminServerApplication.java" />
+        <option value="$PROJECT_DIR$/turbine-service/src/main/java/com/fsdm/TurbineServiceApplication.java" />
+        <option value="$PROJECT_DIR$/turbine-service/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/admin-server/pom.xml" />
+        <option value="$PROJECT_DIR$/admin-server/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/admin-server/src/main/java/com/fsdm/config/SecurityConfig.java" />
+        <option value="$PROJECT_DIR$/zipkin-server/src/main/resources/application.yml" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\bdqn\accp\note\Y2168\repository" />
+        <option name="mavenHome" value="D:/maven/apache-maven-3.5.4" />
+        <option name="userSettingsFile" value="E:\bdqn\accp\note\Y2168\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="43" />
+    <option name="y" value="23" />
+    <option name="width" value="1237" />
+    <option name="height" value="777" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Android</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="SpringCloud_test2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringCloud_test2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringCloud_test2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringCloud_test2" type="462c0819:PsiDirectoryNode" />
+              <item name="admin-server" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringCloud_test2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringCloud_test2" type="462c0819:PsiDirectoryNode" />
+              <item name="admin-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringCloud_test2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringCloud_test2" type="462c0819:PsiDirectoryNode" />
+              <item name="admin-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringCloud_test2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringCloud_test2" type="462c0819:PsiDirectoryNode" />
+              <item name="admin-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringCloud_test2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringCloud_test2" type="462c0819:PsiDirectoryNode" />
+              <item name="admin-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="fsdm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringCloud_test2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringCloud_test2" type="462c0819:PsiDirectoryNode" />
+              <item name="admin-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="fsdm" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringCloud_test2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringCloud_test2" type="462c0819:PsiDirectoryNode" />
+              <item name="admin-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringCloud_test2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringCloud_test2" type="462c0819:PsiDirectoryNode" />
+              <item name="eureka-feign-client" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringCloud_test2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringCloud_test2" type="462c0819:PsiDirectoryNode" />
+              <item name="eureka-feign-client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringCloud_test2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringCloud_test2" type="462c0819:PsiDirectoryNode" />
+              <item name="eureka-feign-client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringCloud_test2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringCloud_test2" type="462c0819:PsiDirectoryNode" />
+              <item name="eureka-feign-client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringCloud_test2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringCloud_test2" type="462c0819:PsiDirectoryNode" />
+              <item name="eureka-feign-client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="fsdm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringCloud_test2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringCloud_test2" type="462c0819:PsiDirectoryNode" />
+              <item name="eureka-feign-client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="fsdm" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringCloud_test2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringCloud_test2" type="462c0819:PsiDirectoryNode" />
+              <item name="eureka-feign-client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="fsdm" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringCloud_test2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringCloud_test2" type="462c0819:PsiDirectoryNode" />
+              <item name="eureka-feign-client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="fsdm" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringCloud_test2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringCloud_test2" type="462c0819:PsiDirectoryNode" />
+              <item name="eureka-ribbon-client" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringCloud_test2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringCloud_test2" type="462c0819:PsiDirectoryNode" />
+              <item name="eureka-ribbon-client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringCloud_test2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringCloud_test2" type="462c0819:PsiDirectoryNode" />
+              <item name="eureka-ribbon-client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringCloud_test2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringCloud_test2" type="462c0819:PsiDirectoryNode" />
+              <item name="eureka-ribbon-client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringCloud_test2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringCloud_test2" type="462c0819:PsiDirectoryNode" />
+              <item name="eureka-ribbon-client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="fsdm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringCloud_test2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringCloud_test2" type="462c0819:PsiDirectoryNode" />
+              <item name="eureka-ribbon-client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="fsdm" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringCloud_test2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringCloud_test2" type="462c0819:PsiDirectoryNode" />
+              <item name="zipkin-server" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringCloud_test2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringCloud_test2" type="462c0819:PsiDirectoryNode" />
+              <item name="zipkin-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringCloud_test2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringCloud_test2" type="462c0819:PsiDirectoryNode" />
+              <item name="zipkin-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringCloud_test2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringCloud_test2" type="462c0819:PsiDirectoryNode" />
+              <item name="zipkin-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringCloud_test2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringCloud_test2" type="462c0819:PsiDirectoryNode" />
+              <item name="zipkin-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="fsdm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringCloud_test2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringCloud_test2" type="462c0819:PsiDirectoryNode" />
+              <item name="zipkin-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Hibernate" />
+    <property name="two.files.diff.last.used.folder" value="$PROJECT_DIR$/eureka-feign-client" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.fsdm" />
+      <recent name="com.fsdm.config" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.fsdm" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\bdqn\accp\note\Y2168\cn\maven\SpringCloud_test2" />
+      <recent name="E:\bdqn\accp\note\Y2168\cn\maven\SpringCloud_test2\config-client\src\main\resources" />
+      <recent name="E:\bdqn\accp\note\Y2168\cn\maven\SpringCloud_test2\eureka-server\src\main\resources" />
+      <recent name="E:\bdqn\accp\note\Y2168\cn\maven\SpringCloud_test2\eureka-client\src\main\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.fsdm.filter" />
+      <recent name="com.fsdm.controller" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\bdqn\accp\note\Y2168\cn\maven\SpringCloud_test2\eureka-server\src\main\resources" />
+      <recent name="E:\bdqn\accp\note\Y2168\cn\maven\SpringCloud_test2\eureka-client\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+    <option name="contentProportion" value="0.2568306" />
+  </component>
+  <component name="RunManager" selected="Spring Boot.EurekaClientTwoApplication">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration name="AdminServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.fsdm.AdminServerApplication" />
+      <module name="admin-server" />
+      <envs />
+    </configuration>
+    <configuration name="ConfigClientApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" singleton="false">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.fsdm.ConfigClientApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <module name="config-client" />
+      <envs />
+    </configuration>
+    <configuration name="ConfigServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" singleton="false">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.fsdm.ConfigServerApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <module name="config-server" />
+      <envs />
+    </configuration>
+    <configuration name="ElRabbitmqZipkinServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.fsdm.ElRabbitmqZipkinServerApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <module name="el-rabbitmq-zipkin-server" />
+      <envs />
+    </configuration>
+    <configuration name="EurekaClientApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" singleton="false">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.fsdm.EurekaClientApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <module name="eureka-client" />
+      <envs />
+    </configuration>
+    <configuration name="EurekaClientOneApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.fsdm.EurekaClientOneApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <module name="eureka-client-one" />
+      <envs />
+    </configuration>
+    <configuration name="EurekaClientTwoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.fsdm.EurekaClientTwoApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <module name="eureka-client-two" />
+      <envs />
+    </configuration>
+    <configuration name="EurekaFeignClientApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.fsdm.EurekaFeignClientApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <module name="eureka-feign-client" />
+      <envs />
+    </configuration>
+    <configuration name="EurekaMonitorClientApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.fsdm.EurekaMonitorClientApplication" />
+      <module name="eureka-monitor-client" />
+      <envs />
+    </configuration>
+    <configuration name="EurekaRibbonClientApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.fsdm.EurekaRibbonClientApplication" />
+      <module name="eureka-ribbon-client" />
+      <envs />
+    </configuration>
+    <configuration name="EurekaServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" singleton="false">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.fsdm.EurekaServerApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <module name="eureka-server" />
+      <envs />
+    </configuration>
+    <configuration name="EurekaZuulClientApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.fsdm.EurekaZuulClientApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <module name="eureka-zuul-client" />
+      <envs />
+    </configuration>
+    <configuration name="GatewayServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.fsdm.GatewayServiceApplication" />
+      <module name="gateway-service" />
+      <envs />
+    </configuration>
+    <configuration name="RabbitmqGatewayServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.fsdm.RabbitmqGatewayServiceApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <module name="rabbitmq-gateway-service" />
+      <envs />
+    </configuration>
+    <configuration name="RabbitmqUserServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.fsdm.RabbitmqUserServiceApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <module name="rabbitmq-user-service" />
+      <envs />
+    </configuration>
+    <configuration name="RabbitmqZipkinServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.fsdm.RabbitmqZipkinServerApplication" />
+      <module name="rabbitmq-zipkin-server" />
+      <envs />
+    </configuration>
+    <configuration name="RibbonClientApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.fsdm.RibbonClientApplication" />
+      <module name="ribbon-client" />
+      <envs />
+    </configuration>
+    <configuration name="TurbineServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.fsdm.TurbineServiceApplication" />
+      <module name="turbine-service" />
+      <envs />
+    </configuration>
+    <configuration name="UserServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.fsdm.UserServiceApplication" />
+      <module name="user-service" />
+      <envs />
+    </configuration>
+    <configuration name="ZipkinServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.fsdm.ZipkinServerApplication" />
+      <module name="zipkin-server" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <list size="20">
+      <item index="0" class="java.lang.String" itemvalue="Spring Boot.ElRabbitmqZipkinServerApplication" />
+      <item index="1" class="java.lang.String" itemvalue="Spring Boot.RabbitmqUserServiceApplication" />
+      <item index="2" class="java.lang.String" itemvalue="Spring Boot.RabbitmqGatewayServiceApplication" />
+      <item index="3" class="java.lang.String" itemvalue="Spring Boot.EurekaClientApplication" />
+      <item index="4" class="java.lang.String" itemvalue="Spring Boot.EurekaFeignClientApplication" />
+      <item index="5" class="java.lang.String" itemvalue="Spring Boot.EurekaRibbonClientApplication" />
+      <item index="6" class="java.lang.String" itemvalue="Spring Boot.RibbonClientApplication" />
+      <item index="7" class="java.lang.String" itemvalue="Spring Boot.EurekaMonitorClientApplication" />
+      <item index="8" class="java.lang.String" itemvalue="Spring Boot.EurekaServerApplication" />
+      <item index="9" class="java.lang.String" itemvalue="Spring Boot.EurekaZuulClientApplication" />
+      <item index="10" class="java.lang.String" itemvalue="Spring Boot.ConfigServerApplication" />
+      <item index="11" class="java.lang.String" itemvalue="Spring Boot.ConfigClientApplication" />
+      <item index="12" class="java.lang.String" itemvalue="Spring Boot.ZipkinServerApplication" />
+      <item index="13" class="java.lang.String" itemvalue="Spring Boot.UserServiceApplication" />
+      <item index="14" class="java.lang.String" itemvalue="Spring Boot.GatewayServiceApplication" />
+      <item index="15" class="java.lang.String" itemvalue="Spring Boot.RabbitmqZipkinServerApplication" />
+      <item index="16" class="java.lang.String" itemvalue="Spring Boot.AdminServerApplication" />
+      <item index="17" class="java.lang.String" itemvalue="Spring Boot.EurekaClientOneApplication" />
+      <item index="18" class="java.lang.String" itemvalue="Spring Boot.EurekaClientTwoApplication" />
+      <item index="19" class="java.lang.String" itemvalue="Spring Boot.TurbineServiceApplication" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5b003986-e9e7-4835-9231-03b5f97eaf73" name="Default" comment="" />
+      <created>1536724955610</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1536724955610</updated>
+      <workItem from="1536724958764" duration="17067000" />
+      <workItem from="1537336238062" duration="9024000" />
+      <workItem from="1537406009795" duration="1855000" />
+      <workItem from="1537426975455" duration="14251000" />
+      <workItem from="1537574718504" duration="1484000" />
+      <workItem from="1537578509204" duration="25000" />
+      <workItem from="1537578572964" duration="46000" />
+      <workItem from="1537578654493" duration="52000" />
+      <workItem from="1537578751123" duration="6602000" />
+      <workItem from="1537786871309" duration="7498000" />
+      <workItem from="1537834580041" duration="4193000" />
+      <workItem from="1537869432360" duration="795000" />
+      <workItem from="1537938812982" duration="601000" />
+      <workItem from="1537943651232" duration="596000" />
+      <workItem from="1537947931624" duration="6075000" />
+      <workItem from="1538007299671" duration="3081000" />
+      <workItem from="1538187189331" duration="2261000" />
+      <workItem from="1538438235029" duration="85000" />
+      <workItem from="1538881731994" duration="3472000" />
+      <workItem from="1538974280312" duration="2145000" />
+      <workItem from="1539043465401" duration="21117000" />
+      <workItem from="1539131291373" duration="106000" />
+      <workItem from="1539132750452" duration="21121000" />
+      <workItem from="1539219098441" duration="1480000" />
+      <workItem from="1539304713563" duration="7794000" />
+      <workItem from="1539315272576" duration="1048000" />
+      <workItem from="1539316364336" duration="7785000" />
+      <workItem from="1539398686010" duration="2821000" />
+      <workItem from="1539404371799" duration="9850000" />
+      <workItem from="1539574052517" duration="642000" />
+      <workItem from="1539649945548" duration="137000" />
+      <workItem from="1539668661014" duration="16487000" />
+      <workItem from="1539762982991" duration="908000" />
+      <workItem from="1539822492100" duration="663000" />
+      <workItem from="1539843043406" duration="18187000" />
+      <workItem from="1539864038412" duration="2756000" />
+      <workItem from="1539908981356" duration="10014000" />
+      <workItem from="1539948964152" duration="2287000" />
+      <workItem from="1539996215489" duration="127000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="EurekaFeignClientApplicationTests_contextLoads - 2018.09.19 at 15h 04m 33s.xml">
+      <configuration name="EurekaFeignClientApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="EurekaFeignClientApplicationTests_contextLoads - 2018.09.19 at 15h 04m 55s.xml">
+      <configuration name="EurekaFeignClientApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="206538000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="FindBugs-IDEA" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299435" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26553673" sideWeight="0.09495708" order="15" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.10944206" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.49570817" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299435" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Run Dashboard" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26553673" sideWeight="0.90504295" order="10" side_tool="false" content_ui="tabs" x="0" y="29" width="1920" height="1001" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35141242" sideWeight="0.8256438" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26892656" sideWeight="0.7462446" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Run with VisualVM" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299435" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25804722" sideWeight="0.49429038" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2607296" sideWeight="0.50570965" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug with VisualVM" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299435" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299435" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299435" sideWeight="0.5" order="16" side_tool="false" content_ui="tabs" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299356" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="3" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/rabbitmq-gateway-service/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="417">
+          <caret line="24" column="13" lean-forward="false" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rabbitmq-user-service/src/main/java/com/fsdm/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rabbitmq-zipkin-server/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rabbitmq-zipkin-server/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="17" column="26" lean-forward="false" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/el-rabbitmq-zipkin-server/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="30" column="23" lean-forward="false" selection-start-line="30" selection-start-column="23" selection-end-line="30" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/el-rabbitmq-zipkin-server/src/main/java/com/fsdm/ElRabbitmqZipkinServerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="11" column="48" lean-forward="false" selection-start-line="11" selection-start-column="48" selection-end-line="11" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rabbitmq-gateway-service/src/main/java/com/fsdm/RabbitmqGatewayServiceApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="14" column="5" lean-forward="false" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rabbitmq-gateway-service/src/main/java/com/fsdm/filter/LoggerFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="663">
+          <caret line="39" column="31" lean-forward="false" selection-start-line="39" selection-start-column="23" selection-end-line="39" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eureka-ribbon-client/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="3" lean-forward="false" selection-start-line="11" selection-start-column="3" selection-end-line="16" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/el-rabbitmq-zipkin-server/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="46" column="36" lean-forward="true" selection-start-line="46" selection-start-column="36" selection-end-line="46" selection-end-column="36" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="jar://D:/Java JDK/Java/jdk1.8.0_144/src.zip!/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-304">
+          <caret line="747" column="0" lean-forward="false" selection-start-line="747" selection-start-column="0" selection-end-line="747" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eureka-ribbon-client/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin-server/src/main/resources/logback-spring.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="16" lean-forward="false" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eureka-client-one/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="50" column="21" lean-forward="false" selection-start-line="50" selection-start-column="21" selection-end-line="50" selection-end-column="21" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eureka-client-two/mvnw.cmd">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eureka-client-two/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="13" column="33" lean-forward="false" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logs/admin-client-one.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-552">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zipkin-server/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="129">
+          <caret line="12" column="4" lean-forward="false" selection-start-line="12" selection-start-column="4" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eureka-client-one/src/main/java/com/fsdm/controller/HiController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="4" lean-forward="false" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eureka-monitor-client/src/main/java/com/fsdm/EurekaMonitorClientApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="9" column="27" lean-forward="true" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eureka-monitor-client/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="15" column="16" lean-forward="false" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../repository/org/springframework/cloud/spring-cloud-netflix-core/1.3.0.RELEASE/spring-cloud-netflix-core-1.3.0.RELEASE.jar!/org/springframework/cloud/netflix/zuul/filters/ZuulProperties.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="236">
+          <caret line="244" column="16" lean-forward="false" selection-start-line="244" selection-start-column="16" selection-end-line="244" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../repository/com/netflix/turbine/turbine-core/1.0.0/turbine-core-1.0.0-sources.jar!/com/netflix/turbine/monitor/instance/InstanceMonitor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="243" column="47" lean-forward="true" selection-start-line="243" selection-start-column="47" selection-end-line="243" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/turbine-service/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/turbine-service/src/main/java/com/fsdm/TurbineServiceApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="9" column="19" lean-forward="false" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eureka-client-one/src/main/java/com/fsdm/EurekaClientOneApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="11" column="8" lean-forward="false" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eureka-client-one/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="14" column="10" lean-forward="false" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eureka-client-two/src/main/java/com/fsdm/EurekaClientTwoApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="15" column="56" lean-forward="false" selection-start-line="15" selection-start-column="56" selection-end-line="15" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eureka-client-two/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="13" column="8" lean-forward="false" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eureka-client-two/src/main/java/com/fsdm/controller/HiController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="19" column="26" lean-forward="false" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../repository/org/springframework/boot/spring-boot-autoconfigure/1.5.3.RELEASE/spring-boot-autoconfigure-1.5.3.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/security/SecurityProperties.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="263">
+          <caret line="283" column="0" lean-forward="true" selection-start-line="283" selection-start-column="0" selection-end-line="283" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin-server/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="331">
+          <caret line="83" column="8" lean-forward="false" selection-start-line="83" selection-start-column="8" selection-end-line="83" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/turbine-service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="805">
+          <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../repository/org/springframework/boot/spring-boot-actuator/1.5.3.RELEASE/spring-boot-actuator-1.5.3.RELEASE-sources.jar!/org/springframework/boot/actuate/endpoint/BeansEndpoint.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="38" column="2" lean-forward="false" selection-start-line="38" selection-start-column="2" selection-end-line="38" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../repository/org/springframework/cloud/spring-cloud-netflix-eureka-client/1.3.0.RELEASE/spring-cloud-netflix-eureka-client-1.3.0.RELEASE-sources.jar!/org/springframework/cloud/netflix/eureka/EurekaInstanceConfigBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../repository/org/springframework/cloud/spring-cloud-netflix-eureka-client/1.3.0.RELEASE/spring-cloud-netflix-eureka-client-1.3.0.RELEASE.jar!/org/springframework/cloud/netflix/eureka/EurekaInstanceConfigBean.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4416">
+          <caret line="282" column="16" lean-forward="false" selection-start-line="282" selection-start-column="16" selection-end-line="282" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin-server/src/main/java/com/fsdm/AdminServerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="15" column="14" lean-forward="false" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin-server/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="966">
+          <caret line="42" column="14" lean-forward="false" selection-start-line="42" selection-start-column="14" selection-end-line="42" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../repository/org/springframework/cloud/spring-cloud-dependencies/Dalston.RELEASE/spring-cloud-dependencies-Dalston.RELEASE.pom">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="27" column="32" lean-forward="false" selection-start-line="27" selection-start-column="32" selection-end-line="27" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin-server/src/main/java/com/fsdm/config/SecurityConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gateway-service/src/main/java/com/fsdm/GatewayServiceApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gateway-service/src/main/java/com/fsdm/filter/LoggerFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eureka-ribbon-client/src/main/java/com/fsdm/service/RibbonService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="782">
+          <caret line="37" column="0" lean-forward="false" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eureka-feign-client/src/main/java/com/fsdm/service/HiService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="15" column="14" lean-forward="false" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eureka-feign-client/src/main/java/com/fsdm/controller/HiController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eureka-feign-client/src/main/java/com/fsdm/EurekaClientFeign.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="22" column="1" lean-forward="false" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eureka-feign-client/src/main/java/com/fsdm/HiHystrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="21" column="5" lean-forward="false" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+          <folding>
+            <element signature="e#392#393#0" expanded="true" />
+            <element signature="e#445#446#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eureka-feign-client/src/main/java/com/fsdm/config/FeignConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="25" column="7" lean-forward="false" selection-start-line="25" selection-start-column="7" selection-end-line="25" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="14" column="4" lean-forward="false" selection-start-line="14" selection-start-column="4" selection-end-line="39" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zipkin-server/src/main/java/com/fsdm/ZipkinServerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="17" column="13" lean-forward="false" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zipkin-server/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>eureka-zuul-client</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: antlr:antlr:2.7.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

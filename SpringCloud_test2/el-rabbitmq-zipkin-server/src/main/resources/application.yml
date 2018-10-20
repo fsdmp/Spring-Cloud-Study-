@@ -1,0 +1,32 @@
+server:
+  port: 9411
+spring:
+  application:
+    name: zipkin-server
+  # rabbitmq相关配置
+  rabbitmq:
+    password: admin
+    username: admin
+    host: 192.168.55.2
+    port: 5672
+  sleuth:
+    enabled: false #表示当前程序不使用sleuth
+    sampler:
+        # 表示以100%的概率将链路的数据上传给zipkin server ，默认为0.1
+      percentage: 1.0
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8761/eureka/
+
+zipkin:
+  storage:
+    type: elasticsearch
+    StorageComponent: elasticsearch
+    elasticsearch:
+      cluster: elasticsearch
+      max-requests: 30
+      index: zipkin
+      index-shards: 3
+      index-replicas: 1
+      hosts: 192.168.55.2:9200

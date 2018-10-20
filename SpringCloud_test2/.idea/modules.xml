@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SpringCloud_test2.iml" filepath="$PROJECT_DIR$/SpringCloud_test2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/admin-server/admin-server.iml" filepath="$PROJECT_DIR$/admin-server/admin-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config-client/config-client.iml" filepath="$PROJECT_DIR$/config-client/config-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config-server/config-server.iml" filepath="$PROJECT_DIR$/config-server/config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/el-rabbitmq-zipkin-server/el-rabbitmq-zipkin-server.iml" filepath="$PROJECT_DIR$/el-rabbitmq-zipkin-server/el-rabbitmq-zipkin-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-client/eureka-client.iml" filepath="$PROJECT_DIR$/eureka-client/eureka-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-client-one/eureka-client-one.iml" filepath="$PROJECT_DIR$/eureka-client-one/eureka-client-one.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-client-two/eureka-client-two.iml" filepath="$PROJECT_DIR$/eureka-client-two/eureka-client-two.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-feign-client/eureka-feign-client.iml" filepath="$PROJECT_DIR$/eureka-feign-client/eureka-feign-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-monitor-client/eureka-monitor-client.iml" filepath="$PROJECT_DIR$/eureka-monitor-client/eureka-monitor-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-ribbon-client/eureka-ribbon-client.iml" filepath="$PROJECT_DIR$/eureka-ribbon-client/eureka-ribbon-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/eureka-server/eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-zuul-client/eureka-zuul-client.iml" filepath="$PROJECT_DIR$/eureka-zuul-client/eureka-zuul-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gateway-service/gateway-service.iml" filepath="$PROJECT_DIR$/gateway-service/gateway-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rabbitmq-gateway-service/rabbitmq-gateway-service.iml" filepath="$PROJECT_DIR$/rabbitmq-gateway-service/rabbitmq-gateway-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rabbitmq-user-service/rabbitmq-user-service.iml" filepath="$PROJECT_DIR$/rabbitmq-user-service/rabbitmq-user-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rabbitmq-zipkin-server/rabbitmq-zipkin-server.iml" filepath="$PROJECT_DIR$/rabbitmq-zipkin-server/rabbitmq-zipkin-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ribbon-client/ribbon-client.iml" filepath="$PROJECT_DIR$/ribbon-client/ribbon-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/turbine-service/turbine-service.iml" filepath="$PROJECT_DIR$/turbine-service/turbine-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/user-service/user-service.iml" filepath="$PROJECT_DIR$/user-service/user-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zipkin-server/zipkin-server.iml" filepath="$PROJECT_DIR$/zipkin-server/zipkin-server.iml" />
+    </modules>
+  </component>
+</project>

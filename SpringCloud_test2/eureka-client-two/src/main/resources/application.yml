@@ -1,0 +1,18 @@
+spring:
+  application:
+    name: eureka-client-two
+server:
+  port: 8763
+eureka:
+  client:
+    service-url:
+      defaultZone: http://peer1:8761/eureka/
+management:
+  security:
+    # 关闭安全验证
+    enabled: false
+logging:
+  # 日志输出路径
+  file: logs/admin-client-two.log
+
+

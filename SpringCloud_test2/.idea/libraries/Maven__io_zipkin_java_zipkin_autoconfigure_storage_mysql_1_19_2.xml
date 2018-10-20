@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: io.zipkin.java:zipkin-autoconfigure-storage-mysql:1.19.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../repository/io/zipkin/java/zipkin-autoconfigure-storage-mysql/1.19.2/zipkin-autoconfigure-storage-mysql-1.19.2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../../repository/io/zipkin/java/zipkin-autoconfigure-storage-mysql/1.19.2/zipkin-autoconfigure-storage-mysql-1.19.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../repository/io/zipkin/java/zipkin-autoconfigure-storage-mysql/1.19.2/zipkin-autoconfigure-storage-mysql-1.19.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

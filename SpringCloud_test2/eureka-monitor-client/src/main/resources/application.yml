@@ -1,0 +1,17 @@
+server:
+  port: 8769
+spring:
+  application:
+    name: service-turbine
+turbine:
+  # 需要监控的服务名
+  app-config: service-zuul # EUREKA-FEIGN-CLIENT,EUREKA-RIBBON-CLIENT
+  # 群集名称表达
+  cluster-name-expression: new String("default")
+  aggregator:
+    # 集群配置
+    clusterConfig: default
+eureka:
+  client:
+    service-url:
+      defaultZone: http://peer1:8761/eureka/

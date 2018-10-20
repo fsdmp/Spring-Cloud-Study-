@@ -1,0 +1,37 @@
+#spring:
+#  profiles:
+#    # 配置从本地读取
+#    active: native
+#  cloud:
+#    config:
+#      server:
+#        native:
+#          # 设置搜索位置
+#          search-locations: classpath:/shared
+#  application:
+#    name: config-server
+#server:
+#  port: 8769
+---
+# 从远程git仓库读取配置文件
+spring:
+  cloud:
+    config:
+      server:
+        git:
+          # git仓库地址
+          uri: https://github.com/FangShangDeMao/springcloudConfig
+          # 搜索远程仓库的文件夹地址
+          search-paths: respo
+          username: FangShangDeMao
+          password: Ll131479
+      # git 仓库分支名
+      label: master
+  application:
+    name: config-server
+server:
+  port: 8768
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8761/eureka/

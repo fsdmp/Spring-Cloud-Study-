@@ -1,0 +1,12 @@
+#定义一个虚拟程序（两个URL地址）
+stores:
+  ribbon:
+    listOfServers: start.spring.io,baidu.com
+server:
+  port: 8769
+
+# 禁止调用Eureka Client后取注册列表
+ribbon:
+  eureka:
+    enabled: false
+

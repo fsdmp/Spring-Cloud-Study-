@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="admin-server" />
+        <module name="config-client" />
+        <module name="config-server" />
+        <module name="el-rabbitmq-zipkin-server" />
+        <module name="eureka-client" />
+        <module name="eureka-client-one" />
+        <module name="eureka-client-two" />
+        <module name="eureka-feign-client" />
+        <module name="eureka-monitor-client" />
+        <module name="eureka-ribbon-client" />
+        <module name="eureka-server" />
+        <module name="eureka-zool-client" />
+        <module name="eureka-zuul-client" />
+        <module name="eureks-feign-client" />
+        <module name="gateway-service" />
+        <module name="rabbinmq-zipkin-server" />
+        <module name="rabbitmq-gateway-service" />
+        <module name="rabbitmq-user-service" />
+        <module name="rabbitmq-zipkin-server" />
+        <module name="ribbon-client" />
+        <module name="turbine-service" />
+        <module name="user-service" />
+        <module name="zipkin-server" />
+        <module name="zipkin-server (1)" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="admin-client-one" target="1.8" />
+      <module name="admin-server" target="1.8" />
+      <module name="config-client" target="1.8" />
+      <module name="config-server" target="1.8" />
+      <module name="el-rabbitmq-zipkin-server" target="1.8" />
+      <module name="eureka-client" target="1.8" />
+      <module name="eureka-client-one" target="1.8" />
+      <module name="eureka-client-two" target="1.8" />
+      <module name="eureka-feign-client" target="1.8" />
+      <module name="eureka-monitor" target="1.8" />
+      <module name="eureka-monitor-client" target="1.8" />
+      <module name="eureka-ribbon-client" target="1.8" />
+      <module name="eureka-server" target="1.8" />
+      <module name="eureka-zool-client" target="1.8" />
+      <module name="eureka-zuul-client" target="1.8" />
+      <module name="eureks-feign-client" target="1.8" />
+      <module name="gateway-service" target="1.8" />
+      <module name="rabbimq-zipkin-server" target="1.8" />
+      <module name="rabbinmq-zipkin-server" target="1.8" />
+      <module name="rabbitmq-gateway-service" target="1.8" />
+      <module name="rabbitmq-user-service" target="1.8" />
+      <module name="rabbitmq-zipkin-server" target="1.8" />
+      <module name="ribbon-client" target="1.8" />
+      <module name="SpringCloud_test2" target="1.8" />
+      <module name="turbine-service" target="1.8" />
+      <module name="user-service" target="1.8" />
+      <module name="zipkin-server" target="1.8" />
+      <module name="zipkin-server (1)" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

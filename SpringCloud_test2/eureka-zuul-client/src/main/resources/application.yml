@@ -1,0 +1,56 @@
+server:
+  port: 5000
+spring:
+  application:
+    name: service-zuul
+eureka:
+  client:
+    service-url:
+      defaultZone: http://peer1:8761/eureka/
+zuul:
+  routes:
+    # 自定义  将以/hiapi开头的url路由到eureka-clien服务  zuul在路由转发会做负载均衡
+    hiapi:
+      path: /hiapi/**
+      serviceId: EUERKA-CLIENT
+      # 指定固定的url将不做负载均衡
+      # url: http://localhost:8762
+    ribbonapi:
+      path: /ribbonapi/**
+      serviceId: EUREKA-RIBBON-CLIENT
+    feignapi:
+      path: /feignapi/**
+      serviceId: eureka-feign-client
+#    hiapi-v1:
+#      path: /v1/**
+#      # 这里的服务id跟下面自己维护的注册列表服务吗一致
+#      serviceId: hiapi-v1
+  # 版本号或者路径前缀
+  prefix: /v1
+  ribbon-isolation-strategy: thread   #设置Hystrix隔离策略为线程池
+  threadPool:
+    useSeparateThreadPools: true
+    threadPoolKeyPrefix: zuulgw
+
+# 在Spring Cloud中，即使项目没有整合Hystrix后，也可能会出现首次调用失败的问题，要如何解决该问题呢？
+# Hystrix默认的超时时间是1秒，如果超过这个时间尚未响应，将会进入fallback代码。
+# 而首次请求往往会比较慢（因为Spring的懒加载机制，要实例化一些类），这个响应时间可能就大于1秒了。
+## 自己的理解：项目启动首次访问，一秒之内注册中心无法读取服务端的信息，导致zuul路由无法从注册中心获取服务
+hystrix:
+  command:
+    default:
+      execution:
+        timeout:
+          enabled: false #禁用超时
+
+
+## Ribbon负债均衡客户端不向client获取服务注册列表   禁用 eureka
+## 这里禁用后就不可以使用上面直接去注册中心根据服务名称 取服务了
+## 只能通过自己维护注册列表（如下）获取列表中的服务（如上）  {hiapi-v1}
+#ribbon:
+#  eureka:
+#    enabled: false
+## 自己维护一份服务注册列表   服务名可自定义
+#hiapi-v1:
+#  ribbon:
+#    listOfServers: http://localhost:8762,http://localhost:8763

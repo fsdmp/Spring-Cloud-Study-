@@ -1,0 +1,19 @@
+spring:
+# http://localhost:8763/bus/refresh  post请求刷新配置
+  rabbitmq:
+    # rabbitmq主机地址
+    host: 192.168.55.2
+    port: 5672
+    username: admin
+    password: admin
+management:
+  security:
+    # 屏蔽安全验证
+    enabled: false
+server:
+  port: 8763
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8761/eureka/
