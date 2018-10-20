@@ -1,0 +1,19 @@
+spring:
+  # thymeleaf模板相关配置
+  thymeleaf:
+    # 模式为html5
+    mode: HTML5
+    # 编码格式
+    encoding: UTF-8
+    # 关闭缓存【另一层意思就算开启热部署】
+    cache: false
+  datasource:
+    url: jdbc:mysql://localhost:3306/spring-secyrity?useUnicode=true&characterEncoding=utf8&useSSL=false
+    driver-class-name: com.mysql.jdbc.Driver
+    username: root
+    password: root
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+
